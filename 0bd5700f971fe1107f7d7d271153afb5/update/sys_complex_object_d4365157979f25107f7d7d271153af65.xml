@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDd0365157769f2510af9c4158f0650765</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>0bd5700f971fe1107f7d7d271153afb5</scope_name>
+        <serialized_content>{"FlowDesigner:FDd0365157769f2510af9c4158f0650765":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\",\"uiUniqueId\":\"d08d5884-a42f-4412-b74d-6e93c49893c8\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\",\"uiUniqueId\":\"e99abe19-3001-4b06-a567-a7395f11676f\"}"}},"FlowDesigner:FDd0365157769f2510af9c4158f0650765.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"e2fff1b4-913e-48a8-9090-c14ba4223374\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"Step status\",\"mandatory\":\"false\",\"uiUniqueId\":\"f4d1f94c-1774-4519-ad54-4c5cd23e19cf\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FDd0365157769f2510af9c4158f0650765\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"a0f07653-a89c-49fe-b9a8-3e28d8915dd2\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"10\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-06-13 10:06:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d4365157979f25107f7d7d271153af65</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>FDd0365157769f2510af9c4158f0650765</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_1059268_ipinfo_s">0bd5700f971fe1107f7d7d271153afb5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">0bd5700f971fe1107f7d7d271153afb5</sys_scope>
+        <sys_update_name>sys_complex_object_d4365157979f25107f7d7d271153af65</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-06-13 10:06:48</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
